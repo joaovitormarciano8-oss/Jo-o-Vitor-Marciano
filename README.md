@@ -1,25 +1,38 @@
-# Portfólio de Estudos em C
+# João Vítor Marciano — Portfólio
 
-Repositório dedicado aos meus estudos de **C** durante a graduação em Ciência da Computação.
+Estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em criar soluções web simples, organizadas e úteis para pequenos negócios.
 
-## O que estou praticando
+## 🚀 Portfólio
 
-- Structs e typedef
-- Funções e modularização
-- TAD (Tipo Abstrato de Dados)
-- Vetores e manipulação de registros
-- Alocação dinâmica de memória com `calloc`
-- Organização de código em arquivos `.h` e `.c`
-- Estruturas de dados
+Este repositório reúne meus estudos, projetos e experiências práticas:
 
-## Projeto atual
+- Desenvolvimento web
+- HTML, CSS e JavaScript
+- React e TypeScript
+- C e estruturas de dados
+- APIs e automações
+- Git e GitHub
 
-### PessoaTAD
+## 📌 Projetos
 
-Exercícios de cadastro e manipulação de pessoas, separados em módulos para praticar TAD e organização de código.
+### Sistema de Cadastro de Filmes
+Projeto acadêmico em C com structs, funções, modularização e alocação dinâmica.
 
-## Objetivo
+### Piniquinho Boteco Direct
+Aplicação web desenvolvida com React + TypeScript para um projeto de negócio. O código está em repositório privado.
 
-Construir uma base sólida em programação e estruturas de dados, evoluindo os projetos conforme avanço na graduação.
+### Novos projetos
+Projetos próprios voltados para problemas reais de pequenos negócios, APIs, automações e desenvolvimento web estão sendo construídos.
 
-> Projeto educacional e em evolução.
+## 🌐 Site do portfólio
+
+O site está em [portfolio/](./portfolio/) e foi criado com HTML e CSS, com layout responsivo.
+
+## 🎯 Objetivo
+
+Evoluir continuamente como desenvolvedor e transformar cada projeto em uma demonstração prática de organização, lógica e capacidade de entregar soluções.
+
+---
+
+**João Vítor Marciano**  
+Ciência da Computação • Desenvolvimento de Software
