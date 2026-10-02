@@ -1,36 +1,56 @@
 # João Vítor Marciano — Portfólio
 
-Estudante de **Ciência da Computação** e desenvolvedor em formação, com foco em criar soluções web simples, organizadas e úteis para pequenos negócios.
+Portfólio de **João Vítor Marciano**, estudante de Ciência da Computação e desenvolvedor em formação.
 
-## 🚀 Portfólio
+## 👨‍💻 Sobre
 
-Este repositório reúne meus estudos, projetos e experiências práticas:
+Estou construindo minha base em programação e desenvolvimento de software por meio de projetos acadêmicos e práticos.
 
-- Desenvolvimento web
-- HTML, CSS e JavaScript
-- React e TypeScript
-- C e estruturas de dados
-- APIs e automações
-- Git e GitHub
+Atualmente estudo principalmente **C, Estruturas de Dados, HTML, CSS, JavaScript, Git e GitHub**, além de explorar desenvolvimento de APIs e aplicações web.
 
-## 📌 Projetos
+## 🚀 Projetos
 
-### Sistema de Cadastro de Filmes
-Projeto acadêmico em C com structs, funções, modularização e alocação dinâmica.
+### 🎬 Sistema de Cadastro de Filmes
+Aplicação acadêmica em C para cadastro e consulta de filmes.
 
-### Piniquinho Boteco Direct
-Aplicação web desenvolvida com React + TypeScript para um projeto de negócio. O código está em repositório privado.
+**Praticado no projeto:**
+- Structs
+- Funções
+- Modularização
+- Arquivos `.h` e `.c`
+- Alocação dinâmica
 
-### Novos projetos
-Projetos próprios voltados para problemas reais de pequenos negócios, APIs, automações e desenvolvimento web estão sendo construídos.
+[Ver projeto no GitHub](https://github.com/joaovitormarciano8-oss/FILME)
 
-## 🌐 Site do portfólio
+### 🛸 Marciano Ofertas
+Projeto próprio para divulgação de ofertas e presença digital, com tecnologias web e integrações com serviços externos.
 
-O site está em [portfolio/](./portfolio/) e foi criado com HTML e CSS, com layout responsivo.
+[Ver projeto no GitHub](https://github.com/joaovitormarciano-prog/MarcianoOfertas)
+
+### 🍺 Piniquinho Boteco Direct
+Aplicação web desenvolvida para um projeto de negócio utilizando React e TypeScript.
+
+O código está em um repositório privado.
+
+## 🛠️ Tecnologias
+
+- C
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- React
+- TypeScript
+- APIs
+
+## 🌐 Site
+
+O site do portfólio está disponível na pasta [portfolio](./portfolio/).
 
 ## 🎯 Objetivo
 
-Evoluir continuamente como desenvolvedor e transformar cada projeto em uma demonstração prática de organização, lógica e capacidade de entregar soluções.
+Transformar cada projeto em uma oportunidade de aprendizado e construir um portfólio que demonstre evolução, organização e capacidade prática de desenvolvimento.
 
 ---
 
